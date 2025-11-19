@@ -12,6 +12,7 @@ The dashboard includes multiple visuals that highlight pollution categories, AQI
 
 ---
 
+
 ## 📁 Project Structure
 
 📦 air-quality-data-visualization
